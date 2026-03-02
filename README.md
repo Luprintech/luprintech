@@ -1,78 +1,79 @@
-<h1 align="center">👋 Hola, soy Lupe</h1>
+<h1 align="center">Lupe · Luprintech</h1>
 
 <p align="center">
-💻 Web Developer | 🤖 AI Creator | ⚙️ Automation Lover  
+Desarrollo aplicaciones web, integro IA y automatizo sistemas completos de principio a fin.
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## Qué hago
 
-Soy desarrolladora de aplicaciones web apasionada por la tecnología, la inteligencia artificial y la automatización.
+Construyo aplicaciones reales, desde la idea hasta el despliegue en producción:
 
-Me encanta detectar cómo mejorar una aplicación, optimizar procesos y crear soluciones que sean útiles, claras y escalables.
+- Desarrollo frontend y backend
+- Integro inteligencia artificial en aplicaciones web
+- Diseño la lógica y arquitectura detrás de sistemas impulsados por IA
+- Despliego proyectos en servidores propios usando Docker
+- Automatizo flujos completos sin intervención manual
 
-Siempre estoy experimentando con nuevas tecnologías y construyendo proyectos reales desplegados en entornos de producción.
-
----
-
-## 🧠 Tecnologías principales
-
-### 👩‍💻 Desarrollo Web
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- SQL / SQLite  
-- Docker & Docker Compose  
-- Nginx  
-
-### 🤖 Inteligencia Artificial
-- Integración de modelos open source  
-- Generación de contenido con IA  
-- Automatización con n8n  
-- Stable Diffusion & herramientas creativas  
-
-### 🛠️ Herramientas
-- Git & GitHub  
-- Synology NAS  
-- DaVinci Resolve  
-- Blender  
-- Fusion 360  
+Trabajo con infraestructura self-hosted en mi propio NAS, gestionando contenedores, dominios y servicios en producción.
 
 ---
 
-## 🌐 Proyecto actual
+## En qué estoy trabajando ahora
 
-🖥️ Portfolio desplegado en Docker sobre NAS  
-🔐 HTTPS con proxy inverso y certificados SSL  
-📝 CMS propio con SQLite para blog técnico  
-⚙️ Automatización de procesos y publicación de contenido  
+**Lupinchef**  
+Aplicación web que genera recetas a partir de ingredientes introducidos por el usuario o detectados por cámara.
 
----
+**Vocaccion**
+Actualmente estoy mejorando el motor de generación: en lugar de delegar toda la lógica directamente a la IA, estoy construyendo un backend propio basado en el modelo **RAISEC**, que estructura el contexto, filtra la información y controla el proceso antes de la generación.  
+Esto permite resultados más consistentes, eficientes y controlables.
 
-## 📲 Contenido Tech
+**Sistema de automatización de contenido**  
+Generación, procesamiento y publicación automática de contenido usando flujos automatizados e integración con APIs y modelos de IA.
 
-Comparto contenido sobre:
-
-- Inteligencia Artificial
-- Automatización
-- Desarrollo Web
-- Tecnología creativa
-
-Marca personal: **Luprintech**
+**Infraestructura self-hosted**  
+Servicios desplegados en Synology NAS con Docker, proxy inverso, HTTPS y dominios propios.
 
 ---
 
-## 💡 Mentalidad
+## Stack habitual
 
-✔ Creatividad aplicada a tecnología  
-✔ Optimización y mejora continua  
-✔ Código claro y mantenible  
-✔ Curiosidad constante  
+Frontend  
+HTML · CSS · JavaScript · Next.js
+
+Backend  
+Node.js · PHP · SQLite · APIs REST
+
+Infraestructura  
+Docker · Docker Compose · Nginx · Linux · Synology NAS
+
+IA aplicada  
+Integración de modelos open source y APIs  
+Diseño de lógica backend para sistemas impulsados por IA  
+Automatización con n8n  
+
+---
+
+## En qué me enfoco
+
+Crear sistemas reales, útiles y desplegados en producción, combinando:
+
+- desarrollo web
+- inteligencia artificial
+- automatización
+- infraestructura self-hosted
+
+---
+
+## Proyectos
+
+Aplicaciones, herramientas y experimentos disponibles en este perfil.
+
+Contenido y proyectos: **Luprintech**
 
 ---
 
 <p align="center">
-✨ Siempre abierta a colaborar en proyectos interesantes ✨
+Construyendo sistemas reales, no solo interfaces.
 </p>
