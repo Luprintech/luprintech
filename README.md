@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="right">
+<div align="center">
   <a href="./README_EN.md">🇬🇧 English version</a>
 </div>
 
