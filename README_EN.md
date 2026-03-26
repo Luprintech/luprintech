@@ -15,9 +15,9 @@
 
 ---
 
-Education background in pedagogy, web development by passion. I've spent years building things quietly — real sites, deployed, in production — and now I do it out in the open.
-
-I specialize in web applications that integrate AI: not just plugging in an API, but designing the logic behind it so results are consistent, controlled, and actually useful. I work with self-hosted infrastructure because I like knowing what's running underneath.
+I build web applications designed to solve real problems.
+I integrate AI as part of the system, not as an add-on, designing the logic and controlling the outcomes.
+I create end-to-end solutions, from frontend to infrastructure.
 
 ---
 
