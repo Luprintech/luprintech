@@ -15,9 +15,9 @@
 
 ---
 
-Pedagogía de formación, desarrollo web por vocación. Llevo años construyendo cosas en la sombra — sitios reales, desplegados, funcionando — y ahora lo hago en primer plano.
-
-Me especializo en aplicaciones web que integran IA: no solo las conecto a una API y listo, sino que diseño la lógica detrás para que los resultados sean coherentes, controlados y útiles. Trabajo con infraestructura self-hosted porque me gusta entender qué hay debajo.
+Desarrollo aplicaciones web pensadas para resolver problemas reales.
+Integro IA como parte del sistema, no como un añadido, diseñando la lógica y controlando los resultados.
+Construyo soluciones completas, desde el frontend hasta la infraestructura.
 
 ---
 
