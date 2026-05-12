@@ -28,7 +28,8 @@ Construyo soluciones completas, desde el frontend hasta la infraestructura.
 | [**Luprinchef**](https://recetas.luprintech.com/) | Genera recetas a partir de ingredientes o cámara | React · Node.js · IA |
 | [**Vocaccion**](https://tuvocaccion.es) | Orientación vocacional con motor basado en modelo RIASEC | Next.js · Node.js · IA |
 | [**filamentOS**](https://github.com/Luprintech/filamentOS) | Herramienta de cálculo con visualización 3D | JS · Three.js |
-| [**GLPI Docker · Córdoba**](https://github.com/Luprintech/glpi-docker-dev-environment) | Entorno Docker para el Ayuntamiento de Córdoba | Docker · GLPI · Linux |
+| [**OpenClaw NAS Docker**](https://github.com/Luprintech/openclaw-nas-docker) | Entorno Docker para desplegar OpenClaw en NAS propio | Docker · Docker Compose · Synology NAS |
+
 
 ---
 
