@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Lupe%20%C2%B7%20Luprintech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Full%20Stack%20Developer%20%C2%B7%20Custom%20web%20applications&descAlignY=60&descSize=18" alt="Lupe · Luprintech" />
 
 <a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/Portfolio-guadalupecano.es-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Guadalupe%20Cano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://luprintech.github.io/awesome-dev-sec/"><img src="https://img.shields.io/badge/awesome--dev--sec-web-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="awesome-dev-sec" /></a>
 <a href="./README.md"><img src="https://img.shields.io/badge/Versi%C3%B3n%20en%20espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-lightgrey?style=for-the-badge" alt="Versión en español" /></a>
 
 <br />
 
 <a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Request%20a%20quote-no%20commitment-22c55e?style=for-the-badge" alt="Request a quote" /></a>
+<a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -24,6 +24,16 @@ I handle the whole process: design and implementation, databases, server configu
 I also work on **SEO optimization, web performance and security analysis**, applying cybersecurity knowledge to find vulnerabilities and improve the protection of applications and systems.
 
 📍 Córdoba, Andalusia, Spain
+
+---
+
+### 🎓 Education
+
+- 🛡️ **Master's degree in Cybersecurity in Information Technologies** · _in progress_
+- 💻 **Higher Technician in Web Application Development (DAW)**
+- 📚 **Degree in Pedagogy**
+
+_Pedagogy gives me a solid foundation to teach, document and design clear experiences; development and cybersecurity let me build and protect real systems._
 
 ---
 

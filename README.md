@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Lupe%20%C2%B7%20Luprintech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desarrolladora%20Full%20Stack%20Freelance%20%C2%B7%20Aplicaciones%20web%20a%20medida&descAlignY=60&descSize=18" alt="Lupe · Luprintech" />
 
 <a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/Portfolio-guadalupecano.es-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Guadalupe%20Cano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://luprintech.github.io/awesome-dev-sec/"><img src="https://img.shields.io/badge/awesome--dev--sec-web-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="awesome-dev-sec" /></a>
 <a href="./README_EN.md"><img src="https://img.shields.io/badge/English%20version-%F0%9F%87%AC%F0%9F%87%A7-lightgrey?style=for-the-badge" alt="English version" /></a>
 
 <br />
 
 <a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Pide%20presupuesto-sin%20compromiso-22c55e?style=for-the-badge" alt="Pide presupuesto" /></a>
+<a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Con%C3%A9ctame-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -24,6 +24,16 @@ Me encargo de todo el proceso: diseño e implementación, bases de datos, config
 También trabajo en **optimización SEO, rendimiento web y análisis de seguridad**, aplicando conocimientos de ciberseguridad para detectar vulnerabilidades y mejorar la protección de aplicaciones y sistemas.
 
 📍 Córdoba, Andalucía, España
+
+---
+
+### 🎓 Formación
+
+- 🛡️ **Máster de especialización en Ciberseguridad en las Tecnologías de la Información** · _en curso_
+- 💻 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+- 📚 **Graduada en Pedagogía**
+
+_La pedagogía me da una base sólida para enseñar, documentar y diseñar experiencias claras; el desarrollo y la ciberseguridad, para construir y proteger sistemas reales._
 
 ---
 
