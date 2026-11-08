@@ -7,6 +7,10 @@
 <a href="https://luprintech.github.io/awesome-dev-sec/"><img src="https://img.shields.io/badge/awesome--dev--sec-web-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="awesome-dev-sec" /></a>
 <a href="./README.md"><img src="https://img.shields.io/badge/Versi%C3%B3n%20en%20espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-lightgrey?style=for-the-badge" alt="Versión en español" /></a>
 
+<br />
+
+<a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Request%20a%20quote-no%20commitment-22c55e?style=for-the-badge" alt="Request a quote" /></a>
+
 </div>
 
 ---
@@ -132,7 +136,7 @@ I also work on **SEO optimization, web performance and security analysis**, appl
 
 <div align="center">
 
-📬 **Let's talk?** → [guadalupecano.es](https://guadalupecano.es)
+📬 **Got a project in mind?** Tell me about it → [guadalupecano.es](https://guadalupecano.es) · [LinkedIn](https://www.linkedin.com/in/guadalupe-cano-moyano/)
 
 *Building real systems, not just interfaces.*
 
