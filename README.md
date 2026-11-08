@@ -25,10 +25,12 @@ Construyo soluciones completas, desde el frontend hasta la infraestructura.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [**Vocaccion**](https://tuvocaccion.es) | Orientación vocacional con motor propio basado en el modelo RIASEC | Next.js · Node.js · IA |
 | [**Luprinchef**](https://recetas.luprintech.com/) | Genera recetas a partir de ingredientes o cámara | React · Node.js · IA |
-| [**Vocaccion**](https://tuvocaccion.es) | Orientación vocacional con motor basado en modelo RIASEC | Next.js · Node.js · IA |
-| [**filamentOS**](https://github.com/Luprintech/filamentOS) | Herramienta de cálculo con visualización 3D | JS · Three.js |
-| [**OpenClaw NAS Docker**](https://github.com/Luprintech/openclaw-nas-docker) | Entorno Docker para desplegar OpenClaw en NAS propio | Docker · Docker Compose · Synology NAS |
+| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Lista curada de repos de desarrollo web, ciberseguridad, DevOps e IA, con [web buscable](https://luprintech.github.io/awesome-dev-sec/) y actualización semanal automatizada | Node.js · GitHub Actions · Pages |
+| [**filamentOS**](https://github.com/Luprintech/filamentOS) | Coste real de impresiones 3D con análisis de G-code mediante IA | TypeScript · IA |
+| [**OpenClaw NAS Docker**](https://github.com/Luprintech/openclaw-nas-docker) | Entorno Docker para desplegar OpenClaw en NAS propio | Docker · Nginx · Synology NAS |
+| [**GLPI Docker**](https://github.com/Luprintech/glpi-docker-dev-environment) | Entorno GLPI 11 dockerizado con DevContainer y Xdebug | Docker · GLPI · Linux |
 
 
 ---

@@ -25,10 +25,12 @@ I create end-to-end solutions, from frontend to infrastructure.
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Vocaccion**](https://tuvocaccion.es) | Vocational guidance powered by an in-house RIASEC-based engine | Next.js · Node.js · AI |
 | [**Luprinchef**](https://recetas.luprintech.com/) | Generates recipes from ingredients or camera input | React · Node.js · AI |
-| [**Vocaccion**](https://tuvocaccion.es) | Vocational guidance powered by a RIASEC-based backend | Next.js · Node.js · AI |
-| [**3D Calculator**](https://calculadora3d.luprintech.com/) | Calculation tool with 3D visualization | JS · Three.js |
-| [**GLPI Docker · Córdoba**](https://github.com/Luprintech/glpi-docker-dev-environment) | Dockerized GLPI environment for a city council | Docker · GLPI · Linux |
+| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated list of web dev, security, DevOps and AI repos, with a [searchable site](https://luprintech.github.io/awesome-dev-sec/) and automated weekly discovery | Node.js · GitHub Actions · Pages |
+| [**filamentOS**](https://github.com/Luprintech/filamentOS) | Real cost of 3D prints with AI-powered G-code analysis | TypeScript · AI |
+| [**OpenClaw NAS Docker**](https://github.com/Luprintech/openclaw-nas-docker) | Docker setup to run OpenClaw on your own NAS | Docker · Nginx · Synology NAS |
+| [**GLPI Docker**](https://github.com/Luprintech/glpi-docker-dev-environment) | Dockerized GLPI 11 with DevContainer and Xdebug | Docker · GLPI · Linux |
 
 ---
 
