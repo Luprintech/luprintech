@@ -8,9 +8,9 @@
 
 <br />
 
-<a href="mailto:luprintech@gmail.com?subject=Web%20project%20quote"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Request%20a%20quote-no%20commitment-22c55e?style=for-the-badge" alt="Request a quote" /></a>
+<a href="mailto:contacto@guadalupecano.es?subject=Web%20project%20quote"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Request%20a%20quote-no%20commitment-22c55e?style=for-the-badge" alt="Request a quote" /></a>
 <a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:luprintech@gmail.com"><img src="https://img.shields.io/badge/Email-luprintech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:contacto@guadalupecano.es"><img src="https://img.shields.io/badge/Email-contacto%40guadalupecano.es-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -147,7 +147,7 @@ _Pedagogy gives me a solid foundation to teach, document and design clear experi
 
 <div align="center">
 
-📬 **Got a project in mind?** Tell me about it → [guadalupecano.es](https://guadalupecano.es) · [LinkedIn](https://www.linkedin.com/in/guadalupe-cano-moyano/) · [luprintech@gmail.com](mailto:luprintech@gmail.com)
+📬 **Got a project in mind?** Tell me about it → [guadalupecano.es](https://guadalupecano.es) · [LinkedIn](https://www.linkedin.com/in/guadalupe-cano-moyano/) · [contacto@guadalupecano.es](mailto:contacto@guadalupecano.es)
 
 *Building real systems, not just interfaces.*
 
