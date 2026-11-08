@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Lupe%20%C2%B7%20Luprintech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desarrolladora%20web%20%C2%B7%20Integradora%20de%20IA%20%C2%B7%20Autodidacta&descAlignY=60&descSize=18" alt="Lupe · Luprintech" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Lupe%20%C2%B7%20Luprintech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desarrolladora%20Full%20Stack%20Freelance%20%C2%B7%20Aplicaciones%20web%20a%20medida&descAlignY=60&descSize=18" alt="Lupe · Luprintech" />
 
 <a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/Portfolio-guadalupecano.es-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Guadalupe%20Cano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,7 +13,13 @@
 
 ### 👩‍💻 Sobre mí
 
-Desarrollo aplicaciones web pensadas para resolver problemas reales. Integro IA como parte del sistema, no como un añadido: diseño la lógica y controlo los resultados. Construyo soluciones completas, del frontend a la infraestructura.
+Soy **desarrolladora Full Stack freelance** y creo aplicaciones y soluciones web a medida, trabajando tanto en frontend como en backend y adaptando cada proyecto a las necesidades del cliente.
+
+Me encargo de todo el proceso: diseño e implementación, bases de datos, configuración de servidores, despliegue y mantenimiento.
+
+También trabajo en **optimización SEO, rendimiento web y análisis de seguridad**, aplicando conocimientos de ciberseguridad para detectar vulnerabilidades y mejorar la protección de aplicaciones y sistemas.
+
+📍 Córdoba, Andalucía, España
 
 ---
 
@@ -69,9 +75,33 @@ Desarrollo aplicaciones web pensadas para resolver problemas reales. Integro IA 
 
 ### 🧰 Stack habitual
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,sqlite,py,bash,docker,nginx,linux,git,githubactions&perline=8" alt="Stack" />
-</p>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="react,nextjs,js,ts,html,css,tailwind" /></td>
+    <td>React · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,php,laravel,prisma&theme=dark" alt="nodejs,php,laravel,prisma" /></td>
+    <td>Node.js · PHP · Laravel · Prisma ORM</td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" alt="mysql,sqlite,postgres" /></td>
+    <td>MySQL · SQLite · PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><b>Infraestructura y despliegue</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,vercel&theme=dark" alt="docker,linux,nginx,cloudflare,vercel" /></td>
+    <td>Docker · Linux · NGINX · Cloudflare · Vercel · VPS</td>
+  </tr>
+  <tr>
+    <td><b>SEO y seguridad</b></td>
+    <td>🔍 🛡️</td>
+    <td>SEO técnico · Rendimiento web · Análisis de vulnerabilidades · Bastionado de sistemas</td>
+  </tr>
+</table>
 
 ---
 
