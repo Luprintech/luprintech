@@ -1,69 +1,110 @@
 <div align="center">
 
-# Lupe · Luprintech
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Lupe%20%C2%B7%20Luprintech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20developer%20%C2%B7%20AI%20integrator%20%C2%B7%20Self-taught&descAlignY=60&descSize=18" alt="Lupe · Luprintech" />
 
-**Web Developer · AI Integrator · Self-taught by nature**
+<a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/Portfolio-guadalupecano.es-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://luprintech.github.io/awesome-dev-sec/"><img src="https://img.shields.io/badge/awesome--dev--sec-web-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="awesome-dev-sec" /></a>
+<a href="./README.md"><img src="https://img.shields.io/badge/Versi%C3%B3n%20en%20espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-lightgrey?style=for-the-badge" alt="Versión en español" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-guadalupecano.es-black?style=flat-square&logo=firefox)](https://guadalupecano.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lupe-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-
-</div>
-
-<div align="center">
-  <a href="./README.md">🇪🇸 Versión en español</a>
 </div>
 
 ---
 
-I build web applications designed to solve real problems.
-I integrate AI as part of the system, not as an add-on, designing the logic and controlling the outcomes.
-I create end-to-end solutions, from frontend to infrastructure.
+### 👩‍💻 About me
+
+I build web applications meant to solve real problems. I integrate AI as part of the system, not as an add-on: I design the logic and control the results. I deliver end-to-end solutions, from frontend to infrastructure.
 
 ---
 
-## Live Projects
+### 🚀 Featured projects
 
-| Project | Description | Stack |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Luprintech/openclaw-nas-docker">🦞 OpenClaw NAS Docker</a></h4>
+      <p>Run OpenClaw on any Docker-capable NAS with LAN-only access, an Nginx proxy and optional local HTTPS.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Synology-NAS-B5B5B6?style=flat-square" alt="NAS" />
+      <img src="https://img.shields.io/github/stars/Luprintech/openclaw-nas-docker?style=flat-square&logo=github" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Luprintech/filamentOS">🧵 filamentOS</a></h4>
+      <p>Calculate the real cost of your 3D prints. Analyzes G-code files with AI and manages projects per user, with multi-currency support.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/IA-AI-6366f1?style=flat-square" alt="AI" />
+      <img src="https://img.shields.io/github/stars/Luprintech/filamentOS?style=flat-square&logo=github" alt="stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Luprintech/glpi-docker-dev-environment">🛠️ GLPI Docker</a></h4>
+      <p>Dockerized GLPI 11 environment with persistent storage, DevContainer support and Xdebug debugging.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/GLPI-11-3b82f6?style=flat-square" alt="GLPI" />
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+      <img src="https://img.shields.io/github/stars/Luprintech/glpi-docker-dev-environment?style=flat-square&logo=github" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Luprintech/davinci-resolve-server">🎬 DaVinci Resolve Server</a></h4>
+      <p>Dockerized PostgreSQL server to work with DaVinci Resolve remotely. Automatic backups and a fix for the Synology port 5432 conflict.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/github/stars/Luprintech/davinci-resolve-server?style=flat-square&logo=github" alt="stars" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://tuvocaccion.es">🧭 Vocaccion</a> &nbsp;<img src="https://img.shields.io/badge/%F0%9F%9A%A7%20in%20development-f59e0b?style=flat-square" alt="in development" /></h4>
+      <p>Vocational guidance powered by an in-house RIASEC-based engine: it structures the context, filters the information and controls the process before generating with AI. Slower to build, much better results.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/IA-AI-6366f1?style=flat-square" alt="AI" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Usual stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,sqlite,py,bash,docker,nginx,linux,git,githubactions&perline=8" alt="Stack" />
+</p>
+
+---
+
+### ⚡ Recent activity
+
+<!-- ACTIVITY:START -->
+
+| Repository | Description | Last push |
 |---|---|---|
-| [**Vocaccion**](https://tuvocaccion.es) | Vocational guidance powered by an in-house RIASEC-based engine | Next.js · Node.js · AI |
-| [**Luprinchef**](https://recetas.luprintech.com/) | Generates recipes from ingredients or camera input | React · Node.js · AI |
-| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated list of web dev, security, DevOps and AI repos, with a [searchable site](https://luprintech.github.io/awesome-dev-sec/) and automated weekly discovery | Node.js · GitHub Actions · Pages |
-| [**filamentOS**](https://github.com/Luprintech/filamentOS) | Real cost of 3D prints with AI-powered G-code analysis | TypeScript · AI |
-| [**OpenClaw NAS Docker**](https://github.com/Luprintech/openclaw-nas-docker) | Docker setup to run OpenClaw on your own NAS | Docker · Nginx · Synology NAS |
-| [**GLPI Docker**](https://github.com/Luprintech/glpi-docker-dev-environment) | Dockerized GLPI 11 with DevContainer and Xdebug | Docker · GLPI · Linux |
+| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated GitHub repos for web development, cybersecurity, DevOps and AI (EN/ES) | today |
+| [**openclaw-nas-docker**](https://github.com/Luprintech/openclaw-nas-docker) | Run OpenClaw on any Docker-capable NAS with LAN-only access, Nginx proxy, and optional local HTTPS. | 3 days ago |
+| [**filamentOS**](https://github.com/Luprintech/filamentOS) | Herramienta web para calcular el coste real de impresiones 3D. Incluye análisis de archivos G-code con IA, gestión de proyectos por usuario y soporte para múltiples divisas. | 5 months ago |
+| [**davinci-resolve-server**](https://github.com/Luprintech/davinci-resolve-server) | Dockerized PostgreSQL server for DaVinci Resolve. Includes automatic backups and a fix for the Synology port 5432 conflict. | 6 months ago |
+| [**glpi-docker-dev-environment**](https://github.com/Luprintech/glpi-docker-dev-environment) | Dockerized GLPI 11 environment with persistent storage, DevContainer support and debugging configuration (Xdebug). | 7 months ago |
+
+<!-- ACTIVITY:END -->
 
 ---
 
-## Usual Stack
+### 🧠 How I work
 
-```
-Frontend    →  HTML · CSS · JavaScript · React · Next.js
-Backend     →  Node.js · PHP · SQLite · REST APIs
-Infra       →  Docker · Docker Compose · Nginx · Synology NAS
-Applied AI  →  Model integration · Backend logic design · n8n automation
-```
-
----
-
-## How I work
-
-- I build backend logic before delegating to AI — results are far more consistent that way
-- I deploy on my own servers with Docker, HTTPS, and real domains
-- I learn through real projects, not tutorials that never make it to production
-- When something isn't documented or doesn't exist yet, I figure it out anyway
-
----
-
-## What I'm working on now
-
-Rebuilding **Vocaccion**'s AI engine: instead of sending requests directly to the model, I'm building a custom backend based on the RIASEC framework that structures context, filters information, and controls the generation process. Slower to build — significantly better in output.
+- I build the backend before handing work to AI: results are more consistent that way
+- I deploy on my own servers with Docker, HTTPS and a real domain
+- I learn through real projects, not tutorials that never reach production
+- When something doesn't exist or is poorly documented, I figure it out anyway
 
 ---
 
 <div align="center">
 
-📬 **Let's talk** → [guadalupecano.es](https://guadalupecano.es)
+📬 **Let's talk?** → [guadalupecano.es](https://guadalupecano.es)
 
 *Building real systems, not just interfaces.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="" />
 
 </div>
