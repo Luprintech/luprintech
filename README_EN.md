@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Lupe%20%C2%B7%20Luprintech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20developer%20%C2%B7%20AI%20integrator%20%C2%B7%20Self-taught&descAlignY=60&descSize=18" alt="Lupe · Luprintech" />
 
 <a href="https://guadalupecano.es"><img src="https://img.shields.io/badge/Portfolio-guadalupecano.es-6366f1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/guadalupe-cano-moyano/"><img src="https://img.shields.io/badge/LinkedIn-Guadalupe%20Cano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://luprintech.github.io/awesome-dev-sec/"><img src="https://img.shields.io/badge/awesome--dev--sec-web-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="awesome-dev-sec" /></a>
 <a href="./README.md"><img src="https://img.shields.io/badge/Versi%C3%B3n%20en%20espa%C3%B1ol-%F0%9F%87%AA%F0%9F%87%B8-lightgrey?style=for-the-badge" alt="Versión en español" /></a>
 
