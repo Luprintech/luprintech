@@ -126,8 +126,8 @@ _La pedagogía me da una base sólida para enseñar, documentar y diseñar exper
 
 | Repositorio | Descripción | Último push |
 |---|---|---|
-| [**openclaw-nas-docker**](https://github.com/Luprintech/openclaw-nas-docker) | Run OpenClaw on any Docker-capable NAS with LAN-only access, Nginx proxy, and optional local HTTPS. | hace 2 días |
-| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated GitHub repos for web development, cybersecurity, DevOps and AI (EN/ES) | hace 3 días |
+| [**openclaw-nas-docker**](https://github.com/Luprintech/openclaw-nas-docker) | Run OpenClaw on any Docker-capable NAS with LAN-only access, Nginx proxy, and optional local HTTPS. | hace 3 días |
+| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated GitHub repos for web development, cybersecurity, DevOps and AI (EN/ES) | hace 4 días |
 | [**filamentOS**](https://github.com/Luprintech/filamentOS) | Herramienta web para calcular el coste real de impresiones 3D. Incluye análisis de archivos G-code con IA, gestión de proyectos por usuario y soporte para múltiples divisas. | hace 5 meses |
 | [**davinci-resolve-server**](https://github.com/Luprintech/davinci-resolve-server) | Dockerized PostgreSQL server for DaVinci Resolve. Includes automatic backups and a fix for the Synology port 5432 conflict. | hace 6 meses |
 | [**glpi-docker-dev-environment**](https://github.com/Luprintech/glpi-docker-dev-environment) | Dockerized GLPI 11 environment with persistent storage, DevContainer support and debugging configuration (Xdebug). | hace 7 meses |
