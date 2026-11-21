@@ -126,9 +126,9 @@ _Pedagogy gives me a solid foundation to teach, document and design clear experi
 
 | Repository | Description | Last push |
 |---|---|---|
+| [**pixel_portfolio**](https://github.com/Luprintech/pixel_portfolio) | Portfolio de Guadalupe Cano: Valle del Bucle (React, Phaser, Express) | today |
 | [**openclaw-nas-docker**](https://github.com/Luprintech/openclaw-nas-docker) | Run OpenClaw on any Docker-capable NAS with LAN-only access, Nginx proxy, and optional local HTTPS. | today |
-| [**pixel_portfolio**](https://github.com/Luprintech/pixel_portfolio) | Portfolio de Guadalupe Cano: Valle del Bucle (React, Phaser, Express) | 2 days ago |
-| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated GitHub repos for web development, cybersecurity, DevOps and AI (EN/ES) | 3 days ago |
+| [**awesome-dev-sec**](https://github.com/Luprintech/awesome-dev-sec) | Curated GitHub repos for web development, cybersecurity, DevOps and AI (EN/ES) | 4 days ago |
 | [**filamentOS**](https://github.com/Luprintech/filamentOS) | Herramienta web para calcular el coste real de impresiones 3D. Incluye análisis de archivos G-code con IA, gestión de proyectos por usuario y soporte para múltiples divisas. | 5 months ago |
 | [**davinci-resolve-server**](https://github.com/Luprintech/davinci-resolve-server) | Dockerized PostgreSQL server for DaVinci Resolve. Includes automatic backups and a fix for the Synology port 5432 conflict. | 7 months ago |
 
